@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:013869_0000_0F925CDCC9B3C7A8"/>
-            <pb facs="tcp:013869_0001_0F925CE1114FBB70" rendition="simple:additions"/>
+            <pb facs="unknown:013869_0000_0F925CDCC9B3C7A8"/>
+            <pb facs="unknown:013869_0001_0F925CE1114FBB70"
+                rendition="simple:additions"/>
             <head>A CIRCUMSTANTIAL ACCOUNT Of an Attack that happened on the 19th of April 1775, on his MAJESTY'S Troops, By a Number of the People of the Province of MASSACHUSETTS-BAY.</head>
             <p>ON Tuesday the 18th of April, about half past 10 at Night, Lieutenant Colonel Smith of the 10th Regiment, embarked from the Common at Boston, with the Grenadiers and Light Infantry of the Troops there, and landed on the opposite Side from whence he began his March towards Concord, where he was ordered to destroy a Magazine of Military Stores, de<g ref="char:EOLhyphen"/>posited there for the Use of an Army to be assembled, in Order to act against his Majesty, and his Government. The Colonel called his Officers together, and gave Orders, that the Troops should not fire, unless fired upon; and after march<g ref="char:EOLhyphen"/>ing a few Miles, detached six Companies of Light Infantry, under the Command of Major Pitcairn, to take Possession of two Bridges on the other Side of Concord: Soon after they heard many Signal Guns, and the ringing of Alarm Bells repeatedly, which convinced them that the Country was rising to oppose them, and that it was a preconcerted Scheme to oppose the King's Troops, wherever there should be a favorable Opportunity for it. About 3 o'Clock the next Morning, the Troops being advanced within two Miles of Lexington, Intelligence was received that about Five Hundred Men in <gap reason="illegible: indecipherable" extent="1 span">
                   <desc>〈…〉</desc>
